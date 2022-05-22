@@ -2,7 +2,9 @@
 
 A new Flutter application.
 
-The application based on a chatbot that makes the data collection process through short questions. Based on the answers given, the app will forward it to the medical sector closest to the patient's needs. To start the application, the user will have to download the Diagnostic Support Download app, where as soon as the program is opened, a Login screen will be displayed to be able to enter the App
+The application is based on a chatbot that does the data collection process through short questions. Based on the answers given, the app will forward to the medical sector closest to the patient's need.
+
+The application is made Flutter the database used and Firebase and the AI used was DialogFlow.
 
 ### :iphone: Dependencies:
 
@@ -52,21 +54,6 @@ With this we see the diversity of indications to the doctor that the Virtual Ass
 ![Imagem9](https://user-images.githubusercontent.com/80012970/169721467-c8c0f890-50c2-4e77-a070-2a93a9daf452.jpg)
 ![Imagem10](https://user-images.githubusercontent.com/80012970/169721469-7e55895f-08f6-46a9-9203-461c06d03749.jpg)
 ![Imagem12](https://user-images.githubusercontent.com/80012970/169721473-7ad0ac76-db09-4d95-9fa4-fbda2487a180.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Getting Started
 
