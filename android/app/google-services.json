@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "376441731050",
+    "firebase_url": "https://chat-firebase-b0622-default-rtdb.firebaseio.com",
+    "project_id": "chat-firebase-b0622",
+    "storage_bucket": "chat-firebase-b0622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376441731050:android:5b76b93de9c84875332493",
+        "android_client_info": {
+          "package_name": "chat.aps.a2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376441731050-ld7afgpo86tj7lj0638ihn08gvnp3q3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxeDqhu3DNS0ma0GkY3EaUbKc87uDFz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376441731050-ld7afgpo86tj7lj0638ihn08gvnp3q3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376441731050:android:03e4a52d50f2b25f332493",
+        "android_client_info": {
+          "package_name": "br.com.toniazevedo.chatbot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376441731050-ld7afgpo86tj7lj0638ihn08gvnp3q3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxeDqhu3DNS0ma0GkY3EaUbKc87uDFz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376441731050-ld7afgpo86tj7lj0638ihn08gvnp3q3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
